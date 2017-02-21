@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Make Images, Videos and Web Stories for Free in Minutes | Adobe Spark</title>
+    <meta lang="en" http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,shrink-to-fit=no,user-scalable=no,initial-scale = 1.0,maximum-scale = 1.0">
+    <link rel="shortcut icon" id="favicon" href="images/sparkfavicon.ico">
+    <link rel="stylesheet" type="text/css" href="&#x2F;marvel-core&#x2F;css&#x2F;marvel-ui-56dbc501.css">
+    <link rel="stylesheet" type="text/css" href="&#x2F;marvel-core&#x2F;css&#x2F;image-picker-75241b9c.css">
+    <link rel="stylesheet" type="text/css" href="&#x2F;css&#x2F;spark-d1bdb195.css">
+    <link rel="stylesheet" href="https://wwwimages2.adobe.com/assets/globalnav/v1.1.4/css/globalnav.css">
+<script src="https://use.typekit.net/vtg4qoo.js"></script>
+<script>try{Typekit.load();}catch(e){
+    console.warn("Typekit Offline!", e);
+}</script>
+    <script src="//assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-5c269fd83f94b310937d9e19eb1661440562b559.js"></script>
+<script type='text/javascript'>
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return false;
+    }
+
+    var currentUrl = window.location.href, site_id = null;
+
+    if (currentUrl.indexOf('qa.adobeprojectm.com') > -1) {
+        site_id = 67953;
+    } else if (currentUrl.indexOf('spark.adobe.com') > -1) {
+        site_id = 67453;
+    }
+
+    if (site_id) {
+        window.__wtw_custom_user_data = {};
+        window.__wtw_custom_user_data.hasLoggedIn =  getCookie('marvel_logged_in') ? "yes" : "no";
+        window.__wtw_custom_user_data.isLoggedIn =  window.adobeIMS && window.adobeIMS.isSignedInUser() ? "yes" : "no";
+
+        window._loq = window._loq || [];
+        window._loq.push(["tag", "hasLoggedIn", getCookie('marvel_logged_in') ? "yes" : "no"]);
+        window.__lo_disable_flash = true;
+        window.__lo_site_id = site_id;
+
+        (function() {
+            var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+            wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+        })();
+    }
+</script>
+</head>
+<body class="light spark-web full-header">
+    <div class="mrvl-header-wrapper">
+        <div class="mrvl-header-bg"></div>
+        <header class="mrvl-header">
+            <div class="glb-nav-hamburger fouc hide" data-auto="glb-nav-hamburger"></div>
+            <a href="/"><p class="mrvl-logo" data-auto="brand-logo">Adobe Spark</p></a>
+            <div class="mrvl-mrkt-nav">
+                <a href="/about/" class="mrvl-mrkt-nav-link mrvl-mrkt-nav-about" data-auto="mrvl-mrkt-nav-about">About</a>
+                <a href="/" class="mrvl-mrkt-nav-link mrvl-mrkt-nav-projects" data-auto="mrvl-mrkt-nav-projects">My Projects</a>
+                <a href="/gallery/" class="mrvl-mrkt-nav-link mrvl-mrkt-nav-gallery" data-auto="mrvl-mrkt-nav-gallery">Inspiration Gallery</a>
+                <a href="/blog" class="mrvl-mrkt-nav-link mrvl-mrkt-nav-blog" data-auto="mrvl-mrkt-nav-blog">Blog</a>
+                <div class="mrvl-mrkt-learn-more-drop">
+                    <a class="mrvl-mrkt-nav-link mrvl-mrkt-nav-learn-more" data-auto="mrvl-mrkt-nav-learn-more">Learn More</a>
+                    <ul class="mrvl-mrkt-nav-learn-more-features">
+                        <li><a href="/features/" class="mrvl-mrkt-nav-link mrvl-mrkt-learn-more-link mrvl-mrkt-feature-link">Features</a></li>
+                        <li><a href="/about/post" class="mrvl-mrkt-nav-link mrvl-mrkt-learn-more-link mrvl-mrkt-feature-link-post">Spark Post</a></li>
+                        <li><a href="/about/page" class="mrvl-mrkt-nav-link mrvl-mrkt-learn-more-link mrvl-mrkt-feature-link-page">Spark Page</a></li>
+                        <li><a href="/about/video" class="mrvl-mrkt-nav-link mrvl-mrkt-learn-more-link mrvl-mrkt-feature-link-video">Spark Video</a></li>
+                        <li><a href="/make/spark-for-business/" class="mrvl-mrkt-nav-link mrvl-mrkt-learn-more-link mrvl-mrkt-feature-link-spark-for-business" data-auto="footer-link-spark-for-business">Spark for Business</a></li>
+                        <li><a href="https://adobespark.zendesk.com/hc/en-us/categories/202688167-Adobe-Spark" class="mrvl-mrkt-nav-link mrvl-mrkt-learn-more-link mrvl-mrkt-nav-support glb-support-link fouc" target="_blank">Support</a></li>
+                    </ul>
+                </div>
+                <div class="mrvl-mrkt-make-a-design-drop">
+                    <a class="mrvl-mrkt-nav-link mrvl-mrkt-nav-make-a-design" data-auto="mrvl-mrkt-nav-make-a-design">Make a Design</a>
+                    <ul class="mrvl-mrkt-nav-make-a-design-features">
+                        <li><a href="/make/album-cover-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Album Covers</a></li>
+                        <li><a href="/make/invitation-maker/baby-showers" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Baby Shower Invitations</a></li>
+                        <li><a href="/make/banner-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Banners</a></li>
+                        <li><a href="/make/invitation-maker/birthdays" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Birthday Invitations</a></li>
+                        <li><a href="/make/book-cover-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Book Covers</a></li>
+                        <li><a href="/make/youtube-channel-art-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Channel Art</a></li>
+                        <li><a href="/make/banner-maker/etsy-banners" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Etsy Banners</a></li>
+                        <li><a href="/make/banner-maker/facebook-covers" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Facebook Covers</a></li>
+                        <li><a href="/make/flyer-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Flyers</a></li>
+                        <li><a href="/make/card-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Greeting Cards</a></li>
+                        <li><a href="/make/invitation-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Invitations</a></li>
+                        <li><a href="/make/posters" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Posters</a></li>
+                        <li><a href="/make/invitation-maker/quinceanera" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Quinceañera Invitations</a></li>
+                        <li><a href="/make/banner-maker/twitter-headers" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Twitter Headers</a></li>
+                        <li><a href="/make/wattpad-cover-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Wattpad Covers</a></li>
+                        <li><a href="/make/website-builder" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">Websites</a></li>
+                        <li><a href="/make/youtube-thumbnail-maker" class="mrvl-mrkt-nav-link mrvl-mrkt-make-a-design-link">YouTube Thumbnails</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="nav-cta-actions">
+                <a href = "/login" data-context="marketingNav" class="mrvl-mrkt-nav-cta-btn signup-cta-btn mrvl-mrkt-nav-logged-out-cta mrvl-mrkt-nav-login" data-auto="mrvl-mrkt-nav-login">Log in</a>
+                <a href="/login" data-context="marketingNav" class="mrvl-mrkt-nav-cta-btn mrvl-mrkt-nav-logged-out-cta signup-cta-btn mrvl-mrkt-nav-start-now" data-auto="mrvl-mrkt-nav-start-now">Start now for free</a>
+                <a href="/" class="mrvl-mrkt-nav-cta-btn mrvl-mrkt-nav-logged-in-cta mrvl-mrkt-nav-create hide" data-auto="mrvl-mrkt-nav-create"></a>
+            </div>
+            <div class="site-nav">
+                <a href="/#" class="site-nav-link site-nav-projects selected" data-auto="site-nav-projects">My Projects</a>
+                <a href="/gallery/" class="site-nav-link site-nav-gallery" data-auto="site-nav-gallery">Inspiration Gallery</a>
+                <a href="/blog" class="site-nav-link site-nav-blog" data-auto="site-nav-blog">Blog</a>
+            </div>
+            <div class="agn-wrap fouc">
+                <div class="agn-container"></div>
+            </div>
+            <nav class="user_placard hide">
+                <button class="signin-btn" data-auto="signin-btn">
+                    <span class="signin-btn-icon"></span>
+                    <span class="signin-btn-label"></span>
+                </button>
+                <div class="mrvl-user-menu hide"></div>
+            </nav>
+            <div class="active-authoring-context fouc hide"></div>
+        </header>
+    </div>
+    <div class="mrvl-user-menu-screen mrvl-overlay-bg hide"></div>
+    <div class="glb-nav-menu"></div>
+    <div class="mrvl-main-page"></div>
+    <div class="mrvl-prefs-overlay hide"></div>
+    <div class="new-project-overlay hide"></div>
+    <div class="offline-overlay hide"></div>
+
+    <div class="verify-email-overlay hide"></div>
+    <div class='preview-overlay hide' id='preview-overlay'></div>
+    <div class='preview-overlay hide' id='preview-overlay-fs'></div>
+    <div class='preview-overlay hide' id='preview-overlay-elv'></div>
+    <div class='item-preview-overlay hide'></div>
+    <div class='confirm-overlay hide'></div>
+    <div class="cross-format-overlay"></div>
+    <div class="lg-dialog-overlay hide"></div>
+    <div class="mkt-optin-overlay hide"></div>
+    <div class="mkt-optin-scroll-teaser">
+        <div class="mkt-optin-teaser-dialog">
+            <h4>Magic delivered to your inbox</h4>
+            <p>Get the latest news on Adobe Spark features, and stories from the Spark community that will light up your day.</p>
+            <a class="mkt-optin-teaser-btn mrvl-btn">Sign up</a>
+            <div class="close-opt-in-teaser-x"></div>
+            <div class="success-message">
+                <div class="success-icon"></div>
+                <h4>Success!</h4>
+            </div>
+        </div>
+    </div>
+    <div class="browser-unsupported hide">
+        <h2 class="browser-unsupported-title"></h2>
+        <h3 class="browser-unsupported-msg"></h3>
+        <div class="browser-unsupported-buttons">
+            <button class="browser-unsupported-continue-btn">Continue</button>
+            <button class="browser-unsupported-cancel-btn" onclick="location.href='/'">Cancel</button>
+        </div>
+    </div>
+<div class="nps-footer-wrapper hide"></div>
+<script src="&#x2F;m-setup-f0834ce6.js"></script>
+<script src="m-common-ef9474ad.js"></script>
+<script src="m-web-2f90b92b.js"></script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>
